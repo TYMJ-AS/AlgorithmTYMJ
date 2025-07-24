@@ -142,6 +142,7 @@ jobs:
 
       - name: ✅ 리뷰 결과 커밋 & 푸시
         run: |
+          ls -al
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
