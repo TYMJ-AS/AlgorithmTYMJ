@@ -3,9 +3,9 @@ name: Gemini 문제 풀이 코드 리뷰
 on:
   push:
     paths:
-      - '**/백준/*.py'
-      - '**/swea/*.py'
-      - '**/프로그래머스/*.py'
+      - '**/백준/**.py'
+      - '**/swea/**.py'
+      - '**/프로그래머스/**.py'
 
 permissions:
   contents: write
