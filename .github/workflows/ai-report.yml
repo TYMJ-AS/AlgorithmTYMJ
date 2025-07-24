@@ -142,11 +142,8 @@ jobs:
 
       - name: ✅ 리뷰 결과 커밋 & 푸시
         run: |
-          ls -al
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          FILE=$(find . -name "${{ github.actor }}-*.md" | tail -n 1)
-          git add "$FILE"
+          git add .
           git commit -m "💬 Gemini 리뷰 자동 생성: $FILE" || echo "⚠️ 커밋할 변경 사항 없음"
           git push || echo "❌ push 실패"
