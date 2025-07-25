@@ -15,3 +15,6 @@
     <td align="center"><a href="https://github.com/SeoJumee"><b>SeoJumee</b></a></td>
   </tr>
 </table>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmw1638)](https://solved.ac/kmw1638/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeongjin2024)](https://solved.ac/yeongjin2024/)
