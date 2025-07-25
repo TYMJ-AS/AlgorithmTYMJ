@@ -7,12 +7,14 @@
     <td align="center"><a href="https://github.com/TaeYoung11"><img src="https://avatars.githubusercontent.com/TaeYoung11" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/yyeongjin"><img src="https://avatars.githubusercontent.com/yyeongjin" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/SeoJumee"><img src="https://avatars.githubusercontent.com/SeoJumee" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/github-actions%5Bbot%5D"><img src="https://avatars.githubusercontent.com/github-actions[bot]" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Chocochip-213"><b>Chocochip-213</b></a></td>
     <td align="center"><a href="https://github.com/TaeYoung11"><b>TaeYoung11</b></a></td>
     <td align="center"><a href="https://github.com/yyeongjin"><b>yyeongjin</b></a></td>
     <td align="center"><a href="https://github.com/SeoJumee"><b>SeoJumee</b></a></td>
+    <td align="center"><a href="https://github.com/github-actions%5Bbot%5D"><b>github-actions[bot]</b></a></td>
   </tr>
 </table>
 
